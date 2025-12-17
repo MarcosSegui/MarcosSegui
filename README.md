@@ -1,32 +1,29 @@
 <h1 align="center">Hi 👋, I'm Marcos</h1>
-<h3 align="center">Software Development | Aspiring Junior Developer</h3>
-
-<p align="center">
-  <img src="https://i.pinimg.com/originals/06/60/ef/0660efe82fa3da42ed56eef013171835.gif" width="500" />
-</p>
+<h3 align="center">Software Dev</h3>
 
 ---
 
 ### 🚀 About Me
 
-I'm a **Software Development student in my final year**, currently building a strong foundation in programming and software engineering.
+I'm a **final-year Software Development student** at **Instituto Superior Santo Domingo (ISSD)** in Córdoba, Argentina.
 
-I enjoy **solving real-world problems through technology**, especially when solutions help people in their daily lives.  
-I'm continuously learning through academic projects and complementary courses, improving my skills step by step.
+I'm passionate about **learning and growing within the software development field**, continuously strengthening my foundations and exploring new technologies.  
+Currently, I'm focusing on **deepening my knowledge in Java**, while also building solid skills in web development and databases.
 
-I'm currently looking for **internships or junior opportunities**, preferably **remote**, that allow me to grow professionally while continuing my studies.
+I enjoy **collaborating with other developers**, sharing knowledge, and working on projects where technology helps solve real-world problems.
 
----
+Beyond coding, I'm a **video game enthusiast** and I love talking about **new technologies related to computers and PC hardware**.  
+I'm also a big fan of **Nate Gentile**, whose content motivates me to better understand how technology works from the inside out.
 
-### 🧠 What I'm Currently Doing
-- 📚 Studying **Software Development** (final year)
-- 💻 Taking courses in **Web Development** and **Java**
-- 🏗️ Developing my thesis project **TurnoSalud!**
-- 🌱 Strengthening my knowledge in backend development and databases
+I'm open to **internships, junior opportunities, and collaborative projects**, preferably remote, that allow me to continue learning while completing my studies.
 
 ---
 
 ### 🛠️ My Skills Include
+
+<table>
+<tr>
+<td width="65%" valign="top">
 
 #### 💻 Programming Languages
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
@@ -45,7 +42,13 @@ I'm currently looking for **internships or junior opportunities**, preferably **
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
 
-> ⚠️ I'm still building experience, but I'm highly motivated to learn, improve, and grow every day as a developer.
+</td>
+
+<td width="35%" align="center" valign="top">
+  <img src="https://i.pinimg.com/originals/06/60/ef/0660efe82fa3da42ed56eef013171835.gif" width="280"/>
+</td>
+</tr>
+</table>
 
 ---
 
